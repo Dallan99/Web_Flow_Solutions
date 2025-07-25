@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 # 🌐 WebFlow
+=======
+# 🌐 WebFlow 
+
+https://dallan99.github.io/Web_Flow_Solutions/
+>>>>>>> 
 
 **WebFlow** é uma landing page moderna e responsiva para uma empresa especializada em **desenvolvimento web** e **modernização de sistemas legados**. O projeto é focado em performance, interatividade e experiência do usuário, com design profissional e funcionalidades reais.
 
